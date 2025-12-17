@@ -19,4 +19,11 @@ Busco uma **oportunidade de estágio** na área de tecnologia, com interesse esp
 em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e evoluir
 profissionalmente.
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=tokyonight)
+
+
 📈 Em constante aprendizado e evolução.
