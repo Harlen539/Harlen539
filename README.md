@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Harlen!
 
-<!--
-**Harlen539/Harlen539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas para Internet**  
+💻 Foco em **Desenvolvimento Web**  
+🔐 Grande interesse em **Cybersegurança** e fundamentos de segurança da informação  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- HTML | CSS | JavaScript
+- Python | Java
+- Git | GitHub
+- Conceitos básicos de **Segurança da Informação**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Sobre meus projetos
+Meus repositórios reúnem projetos acadêmicos e exercícios práticos voltados para
+front-end, lógica de programação e estudos iniciais em cybersegurança.
+
+## 🎯 Objetivo
+Busco uma **oportunidade de estágio** na área de tecnologia, com interesse especial
+em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e evoluir
+profissionalmente.
+
+📈 Em constante aprendizado e evolução.
