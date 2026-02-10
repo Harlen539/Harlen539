@@ -19,9 +19,10 @@ Busco uma **oportunidade de estágio** na área de tecnologia, com interesse esp
 em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e evoluir
 
 ## LinkedIn
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/harlen-galdino-527ba9349/?utm_source=share&utm_medium=ios_app)
-
-Conecte-se comigo no LinkedIn e vamos compartilhar conhecimentos sobre **Cibersegurança** e **Desenvolvimento Web**! 🚀
+<a href="https://www.linkedin.com/in/harlen-galdino-527ba9349/?utm_source=share&utm_medium=ios_app" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="LinkedIn" width="40" />
+</a>
+<p>Conecte-se comigo no LinkedIn e vamos compartilhar conhecimentos sobre <strong>Cibersegurança</strong> e <strong>Desenvolvimento Web</strong>! 🚀</p>
 
 ## 📊 Estatísticas do GitHub
 
