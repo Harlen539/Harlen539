@@ -23,8 +23,6 @@ em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e ev
 
 Conecte-se comigo no LinkedIn e vamos compartilhar conhecimentos sobre **Cibersegurança** e **Desenvolvimento Web**! 🚀
 
-profissionalmente.
-
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight)
