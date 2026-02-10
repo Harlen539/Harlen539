@@ -23,10 +23,6 @@ em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e ev
   <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
 </a>
 
-## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=radical)
 
 
