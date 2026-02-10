@@ -23,6 +23,19 @@ em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e ev
   <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
 </a>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Harlen539&theme=tokyonight&hide_border=false"/>
+</div>
+
 
 
 
