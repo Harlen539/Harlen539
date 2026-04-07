@@ -1,16 +1,13 @@
-<!-- BANNER SUPERIOR -->
+<!-- BANNER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001F3F&height=200&section=header&text=&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harlen%20Henrick&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- NOME COM EFEITO RAIO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0ff&height=150&section=header&text=⚡%20Harlen%20Henrick%20⚡&fontSize=40&fontColor=00F7FF&animation=twinkling" />
-</p>
+<!-- TEXTO DIGITANDO -->
+<h1 align="center">👋 Olá, eu sou o Harlen!</h1>
 
-<!-- TEXTO ANIMADO (ENERGIA FLUINDO) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=1800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Focused+⚡;Web+Developer;Offensive+%26+Defensive+Security;Building+Secure+Systems;Always+Learning+🔐" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Estudante+de+Sistemas+para+Internet;Focado+em+Cibersegurança;Apaixonado+por+Tecnologia" />
 </p>
 
 ---
@@ -18,10 +15,10 @@
 ## 🧠 Sobre mim
 
 💻 Estudante de Sistemas para Internet  
-🚀 Desenvolvedor Web em evolução  
-🔐 Foco total em Cibersegurança  
-🛡️ Buscando me tornar especialista em segurança ofensiva e defensiva  
-📚 Aprendizado contínuo e prática constante  
+🚀 Focado em Desenvolvimento Web  
+🔐 Interesse em Cibersegurança  
+🌐 Conhecimentos em redes e segurança da informação  
+📚 Aprendizado contínuo  
 
 ---
 
@@ -53,12 +50,20 @@
 ## 🌎 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
+  <a href="https://www.linkedin.com/in/harlen-galdino">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/>
+  <a href="https://www.instagram.com/seu_usuario">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 👁️ Visitas no perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harlen539&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -66,10 +71,10 @@
 ## ⚡ Frase
 
 <p align="center">
-  <i>"Segurança não é uma opção — é prioridade."</i>
+  <i>"Transformando código em soluções e conhecimento em oportunidades."</i>
 </p>
 
-<!-- FOOTER COM ENERGIA -->
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
