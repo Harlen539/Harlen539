@@ -1,15 +1,16 @@
-<!-- CARD PRINCIPAL -->
+<!-- NOME COM FONTE MAIS ELEGANTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=⚡+Harlen+Henrick+⚡;Cybersecurity+Focused+🔐" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=38&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+%7C+Web+Developer" />
 </p>
 
-<!-- CARD ESTILO PORTFÓLIO -->
+<!-- CARD VISUAL -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=220&section=header&text=&fontSize=30" />
 </p>
 
+<!-- SUBTEXTO MODERNO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+secure+systems" />
 </p>
 
 ---
@@ -43,10 +44,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
