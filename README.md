@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
-<!-- GIF ESTILO ENERGIA (SUBSTITUI O ZENITSU REAL) -->
+<!-- RAIO ANIMADO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300px"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/053/019/030/original/hun-young-ha-220818.gif" width="500px"/>
 </p>
 
 ---
