@@ -1,11 +1,11 @@
+<!-- RAIO -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harlen539/Harlen539/main/raio.gif" width="600px"/>
+</p>
+
 <!-- NOME -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
-</p>
-
-<!-- TEU RAIO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harlen539/Harlen539/main/raio.gif" width="500px"/>
 </p>
 
 ---
