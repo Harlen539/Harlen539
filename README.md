@@ -1,16 +1,16 @@
-<!-- NOME COM FONTE MAIS ELEGANTE -->
+<!-- NOME PRINCIPAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=38&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
 <!-- CARD VISUAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=220&section=header&text=&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=220&section=header&text=&fontSize=30" />
 </p>
 
-<!-- SUBTEXTO MODERNO -->
+<!-- SUBTEXTO COM MESMA FONTE E COR -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+secure+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+secure+systems" />
 </p>
 
 ---
@@ -44,10 +44,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
   </a>
   <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/>
   </a>
 </p>
 
