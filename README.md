@@ -1,28 +1,20 @@
-<!-- BANNER ANIMADO -->
+<!-- CARD PRINCIPAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harlen%20Henrick&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=⚡+Harlen+Henrick+⚡;Cybersecurity+Focused+🔐" />
 </p>
 
-<!-- TEXTO DIGITANDO -->
-<h1 align="center">👋 Olá, eu sou o Harlen!</h1>
+<!-- CARD ESTILO PORTFÓLIO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=220&section=header&text=&fontSize=30" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Estudante+de+Sistemas+para+Internet;Focado+em+Cibersegurança;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+Secure+Systems" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
-
-💻 Estudante de Sistemas para Internet  
-🚀 Focado em Desenvolvimento Web  
-🔐 Interesse em Cibersegurança  
-🌐 Conhecimentos em redes e segurança da informação  
-📚 Aprendizado contínuo  
-
----
-
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github" />
@@ -30,43 +22,47 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harlen539&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harlen539&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Frase
+## ⚡ Sobre mim
+
+💻 Sistemas para Internet  
+🔐 Foco em Cibersegurança  
+🚀 Desenvolvimento Web  
+📚 Evolução constante  
+
+---
+
+## 💬 Frase
 
 <p align="center">
-  <i>"Transformando código em soluções e conhecimento em oportunidades."</i>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <i>"Hack the system. Secure the future."</i>
 </p>
