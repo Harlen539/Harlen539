@@ -1,41 +1,80 @@
-# 👋 Olá, eu sou Harlen!
+<!-- BANNER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harlen%20Henrick&fontSize=40&fontColor=ffffff" />
+</p>
 
-🎓 Estudante de **Sistemas para Internet**  
-💻 Foco em **Desenvolvimento Web**  
-🔐 Grande interesse em **Cybersegurança** e fundamentos de segurança da informação  
+<!-- TEXTO DIGITANDO -->
+<h1 align="center">👋 Olá, eu sou o Harlen!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Estudante+de+Sistemas+para+Internet;Focado+em+Cibersegurança;Apaixonado+por+Tecnologia" />
+</p>
+
+---
+
+## 🧠 Sobre mim
+
+💻 Estudante de Sistemas para Internet  
+🚀 Focado em Desenvolvimento Web  
+🔐 Interesse em Cibersegurança  
+🌐 Conhecimentos em redes e segurança da informação  
+📚 Aprendizado contínuo  
+
+---
 
 ## 🚀 Tecnologias e Ferramentas
-- HTML | CSS | JavaScript
-- Python | Java
-- Git | GitHub
-- Conceitos básicos de **Segurança da Informação**
 
-## 📂 Sobre meus projetos
-Meus repositórios reúnem projetos acadêmicos e exercícios práticos voltados para
-front-end, lógica de programação e estudos iniciais em cybersegurança.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github" />
+</p>
 
-## 🎯 Objetivo
-Busco uma **oportunidade de estágio** na área de tecnologia, com interesse especial
-em **desenvolvimento web** e **cybersegurança**, para aprender, contribuir e evoluir
+---
 
-## LinkedIn
-<a  href="https://br.linkedin.com/in/harlen-galdino-527ba9349?trk=people-guest_people_search-card" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-</a>
+## 📊 Estatísticas do GitHub
 
-## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+---
 
-## 🔥 GitHub Streak
+## 🔥 Sequência de Contribuições
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harlen539&theme=tokyonight&hide_border=false"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harlen539&theme=tokyonight" />
+</p>
 
+---
 
+## 🌎 Conecte-se comigo
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/harlen-galdino">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/seu_usuario">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
+---
+
+## 👁️ Visitas no perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harlen539&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+## ⚡ Frase
+
+<p align="center">
+  <i>"Transformando código em soluções e conhecimento em oportunidades."</i>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
