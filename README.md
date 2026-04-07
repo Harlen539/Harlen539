@@ -1,11 +1,11 @@
-<!-- NOME PRINCIPAL -->
+<!-- NOME -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
 <!-- RAIO ANIMADO -->
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/053/019/030/original/hun-young-ha-220818.gif" width="500px"/>
+  <img src="https://i.ibb.co/7QpKsCX/lightning.gif" width="600px"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌎 Contato
+## 🌎 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
