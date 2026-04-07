@@ -1,16 +1,16 @@
-<!-- NOME COM FONTE MAIS ELEGANTE -->
+<!-- NOME ESTILO ANIME -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=38&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&duration=2000&pause=1000&color=F7D100&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
 <!-- CARD VISUAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=220&section=header&text=&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=220&section=header&text=&fontSize=30" />
 </p>
 
-<!-- SUBTEXTO MODERNO -->
+<!-- SUBTEXTO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Always+learning+new+things;Focused+on+Cybersecurity;Building+secure+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+learning;Cybersecurity+Focus;Building+secure+systems" />
 </p>
 
 ---
