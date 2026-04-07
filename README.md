@@ -1,16 +1,16 @@
-<!-- BANNER COM EFEITO ENERGIA -->
+<!-- BANNER SUPERIOR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:001F3F&height=250&section=header&text=Harlen%20Henrick&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001F3F&height=200&section=header&text=&fontSize=40" />
 </p>
 
-<!-- NOME COM EFEITO "RAIO" -->
-<h1 align="center">
-  ⚡ <span style="color:#00F7FF;">Harlen Henrick</span> ⚡
-</h1>
-
-<!-- TEXTO ANIMADO MELHORADO -->
+<!-- NOME COM EFEITO RAIO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Cybersecurity+Focused;Web+Developer;Future+Security+Specialist;Building+Secure+Systems;Always+Learning+%F0%9F%94%90" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0ff&height=150&section=header&text=⚡%20Harlen%20Henrick%20⚡&fontSize=40&fontColor=00F7FF&animation=twinkling" />
+</p>
+
+<!-- TEXTO ANIMADO (ENERGIA FLUINDO) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=1800&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Focused+⚡;Web+Developer;Offensive+%26+Defensive+Security;Building+Secure+Systems;Always+Learning+🔐" />
 </p>
 
 ---
@@ -54,10 +54,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000"/>
   </a>
   <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000"/>
   </a>
 </p>
 
@@ -71,5 +71,5 @@
 
 <!-- FOOTER COM ENERGIA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0ff&height=120&section=footer"/>
 </p>
