@@ -6,9 +6,9 @@
 
 ---
 
-### 🔐 Security Technology Stack
+### 🔐 Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,py,bash,docker,git,github,java,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,bash,docker,git,github,java,html,css,js,mysql,vscode&theme=dark" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### ⚡ System Information
 > **User:** Harlen Henrick  
 > **Role:** Cybersecurity Developer / Sistemas para Internet  
-> **Status:** Monitoring for vulnerabilities... 🚀  
+> **Status:** Analyzing network patterns... 🚀  
 > **Focus:** Web Security & Constant Evolution 📚
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
