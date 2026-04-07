@@ -3,12 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
-<!-- RAIO ANIMADO -->
+<!-- RAIO LIMPO -->
 <p align="center">
-  <img src="https://i.ibb.co/7QpKsCX/lightning.gif" width="600px"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400px"/>
 </p>
-
----
 
 ## 🚀 Tecnologias
 
