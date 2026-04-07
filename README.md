@@ -1,13 +1,16 @@
-<!-- BANNER ANIMADO -->
+<!-- BANNER COM EFEITO ENERGIA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Harlen%20Henrick&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,100:001F3F&height=250&section=header&text=Harlen%20Henrick&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- TEXTO DIGITANDO -->
-<h1 align="center">👋 Olá, eu sou o Harlen!</h1>
+<!-- NOME COM EFEITO "RAIO" -->
+<h1 align="center">
+  ⚡ <span style="color:#00F7FF;">Harlen Henrick</span> ⚡
+</h1>
 
+<!-- TEXTO ANIMADO MELHORADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Estudante+de+Sistemas+para+Internet;Focado+em+Cibersegurança;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Cybersecurity+Focused;Web+Developer;Future+Security+Specialist;Building+Secure+Systems;Always+Learning+%F0%9F%94%90" />
 </p>
 
 ---
@@ -15,10 +18,10 @@
 ## 🧠 Sobre mim
 
 💻 Estudante de Sistemas para Internet  
-🚀 Focado em Desenvolvimento Web  
-🔐 Interesse em Cibersegurança  
-🌐 Conhecimentos em redes e segurança da informação  
-📚 Aprendizado contínuo  
+🚀 Desenvolvedor Web em evolução  
+🔐 Foco total em Cibersegurança  
+🛡️ Buscando me tornar especialista em segurança ofensiva e defensiva  
+📚 Aprendizado contínuo e prática constante  
 
 ---
 
@@ -51,10 +54,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://www.instagram.com/secbyharlen">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
@@ -63,10 +66,10 @@
 ## ⚡ Frase
 
 <p align="center">
-  <i>"Transformando código em soluções e conhecimento em oportunidades."</i>
+  <i>"Segurança não é uma opção — é prioridade."</i>
 </p>
 
-<!-- FOOTER -->
+<!-- FOOTER COM ENERGIA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=footer"/>
 </p>
