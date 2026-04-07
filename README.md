@@ -1,11 +1,11 @@
-<!-- NOME PRINCIPAL -->
+<!-- NOME -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Harlen+Henrick;Cybersecurity+Developer" />
 </p>
 
-<!-- GIF ESTILO ENERGIA (SUBSTITUI O ZENITSU REAL) -->
+<!-- TEU RAIO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300px"/>
+  <img src="https://raw.githubusercontent.com/Harlen539/Harlen539/main/raio.gif" width="500px"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌎 Contato
+## 🌎 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harlen-galdino-527ba9349">
