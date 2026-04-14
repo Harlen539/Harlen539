@@ -42,13 +42,4 @@
 ## 🌐 Conecte-se comigo
 
 <div align="center">
-  <a href="https://br.linkedin.com/in/harlen-galdino-527ba9349" target="_blank">
-    <img height="50px" src="CAMINHO/PARA/image_0.png" alt="Perfil do LinkedIn do Harlen" />
-  </a>
-  <br>
-  <span>🔗 Conectar</span>
-</div>
-
----
-
-<img src="https://capsule-render.vercelapp/api?type=waving&color=0:00F7FF,100:0077ff&height=100&section=footer"/>
+  <a href="
