@@ -51,7 +51,7 @@
 
 <div align="left">
   <a href="https://br.linkedin.com/in/harlen-galdino-527ba9349" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </div>
 
