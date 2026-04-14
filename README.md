@@ -1,60 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=150&section=header&text=Harlen%20Henrick&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=150&section=header&text=Harlen%20Henrick&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web;Especialista+em+Cybersegurança;Explorando+Novas+Tecnologias;Transformando+Ideias+em+Código&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&font=Fira+Code&weight=600&width=600&center=true&vCenter=true&lines=Olá,+eu+sou+o+Harlen!;Desenvolvedor+Web;Focado+em+Cybersegurança;Explorando+Novas+Fronteiras" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Sistemas para Internet** no UNIESP.  
-💻 Foco em criar aplicações web robustas e seguras.  
-🔐 Apaixonado por **Cybersegurança** e proteção de dados.
+🎓 Estudante de **Sistemas para Internet**.  
+💻 Desenvolvedor **Web** focado em experiências seguras.  
+🔐 Entusiasta de **Cybersegurança**, focado em proteção e infraestrutura.
 
 ---
 
 ## 🚀 Tecnologias
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java&theme=dark" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,bash&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=ffffff&text_color=00F7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harlen539&theme=tokyonight&border_color=00F7FF&title_color=ffffff&text_color=00F7FF&icon_color=00F7FF&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harlen539&layout=compact&theme=tokyonight&border_color=00F7FF&title_color=ffffff&text_color=00F7FF" />
 </div>
-
----
-
-## 🔥 Streak & Atividade
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=Harlen539&theme=tokyonight&border=00F7FF&stroke=ffffff&ring=00F7FF&fire=00F7FF" />
 </div>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
-## 🐍 Contribuições
+## 🌐 Conecte-se comigo
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Conecte-se
-
-<div align="left">
   <a href="https://br.linkedin.com/in/harlen-galdino-527ba9349" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img height="50px" src="CAMINHO/PARA/image_0.png" alt="Perfil do LinkedIn do Harlen" />
   </a>
+  <br>
+  <span>🔗 Conectar</span>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercelapp/api?type=waving&color=0:00F7FF,100:0077ff&height=100&section=footer"/>
