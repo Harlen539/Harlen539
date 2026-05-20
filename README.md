@@ -4,6 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&font=Fira+Code&weight=600&width=600&center=true&vCenter=true&lines=Olá,+eu+sou+o+Harlen!;Desenvolvedor+Web;Focado+em+Cybersegurança;Explorando+Novas+Fronteiras" />
 </p>
 
+<div align="center">
+  <a href="https://harlengaldino.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=101318" alt="Portfolio" />
+  </a>
+  <a href="https://br.linkedin.com/in/harlen-galdino-527ba9349" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=101318" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harlengaldino3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=101318" alt="Email" />
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 Sobre mim
